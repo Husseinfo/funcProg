@@ -1,7 +1,7 @@
 # Functional Programming Example
 
 Python implementation of *Functional Programming 4, An Example In Arabic* session by
-Eng. [Eng. Mohamed Hammad](https://www.linkedin.com/in/mohamed-hammad-a720a622/).
+[Eng. Mohamed Hammad](https://www.linkedin.com/in/mohamed-hammad-a720a622/).
 
 ### Session video
 
